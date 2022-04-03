@@ -18,6 +18,11 @@
           <FullPath>Configure_etl.dtsx</FullPath>
           <References />
         </DtsPackage>
+        <DtsPackage FormatVersion="8">
+          <Name>ForEachLoop.dtsx</Name>
+          <FullPath>ForEachLoop.dtsx</FullPath>
+          <References />
+        </DtsPackage>
       </DTSPackages>
     </Manifest>
   </DeploymentModelSpecificContent>
